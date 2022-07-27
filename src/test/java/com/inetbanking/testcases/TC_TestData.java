@@ -6,6 +6,8 @@ public class TC_TestData {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This class is a demo class for Github Repo");
+		
+		System.out.println("This is 2nd statement");
 
 	}
 
